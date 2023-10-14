@@ -1,2 +1,2 @@
-# git-pull-fetch
+# git-pull-fetch (github)
 Only practice
